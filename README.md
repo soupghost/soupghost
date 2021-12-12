@@ -4,8 +4,6 @@
 - I'm currently learning javascript & guitar!
 - I'm always open to collaborate, but I'm still learning! So I wouldn't recommend collaborating just yet, lol.
 - You can reach me through my discord, soupghost#1747 for fastest reponses. You can also gmail me at Kingjoseph6563@gmail.com
-- alert("hi, you're cool :D");
--
 
 <!---
 soupghost/soupghost is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
