@@ -1,9 +1,9 @@
-- Hi, I’m @soupghost :)
-- Any pronouns
-- I’m interested in writing, drawing, coding, the album Hawaii: Part II (which turned nine on 12/12/21!).
-- I'm currently learning javascript & guitar!
-- I'm always open to collaborate, but I'm still learning! So I wouldn't recommend collaborating just yet, lol.
-- You can reach me through my discord, soupghost#1747 for fastest reponses. You can also gmail me at Kingjoseph6563@gmail.com
+- Hi, I’m @soupghost! You can call me Ana, Soup or August/Gus :)
+- They/Them
+- I’m interested in writing, drawing, coding and "IT".
+- I'm currently learning javascript &, occasionally, guitar!
+- I'm currently incredibly uneducated in javascript, but I love learning & one day I will succeed. 
+- If you see the need, you can reach me through my discord, soupghost#1747 for fastest reponses. You can also gmail me at Kingjoseph6563@gmail.com. 
 
 <!---
 soupghost/soupghost is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
